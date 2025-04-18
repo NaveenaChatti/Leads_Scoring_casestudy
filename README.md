@@ -1,4 +1,4 @@
-Lead Conversion Prediction (Logistic Regression)
+# Lead Conversion Prediction (Logistic Regression)
 
 OBJECTIVE:
 Predict which leads are likely to convert using logistic regression.
@@ -41,4 +41,14 @@ PROCESS:
 
 CONCLUSION:
 Model performs well with high accuracy and balanced sensitivity/specificity. Suitable for prioritizing lead follow-ups.
+
+## Libraries used:
+Library	Purpose
+pandas:	Data manipulation and cleaning, creating dataframes.
+numpy:	Numerical operations and handling arrays.
+matplotlib.pyplot:	Plotting graphs and visualizing the data.
+seaborn:	Statistical data visualization (e.g., heatmap, boxplot, barplot).
+sklearn:	Machine learning utilities (train-test split, model evaluation).
+statsmodels.api:	Building and evaluating logistic regression models (GLM).
+scipy.stats:	Statistical tests (used for significance testing).
 
