@@ -1,4 +1,4 @@
-README - Lead Conversion Prediction (Logistic Regression)
+Lead Conversion Prediction (Logistic Regression)
 
 OBJECTIVE:
 Predict which leads are likely to convert using logistic regression.
